@@ -1,1 +1,2 @@
+# Deeper-into-Github
 This repository contains HTML and CSS files created as part of my learning journey with GitHub. The purpose of this project is to explore and understand GitHub workflows, including pushing, pulling, branching, pull requests, and deploying changes. It serves as a hands-on practice space to get comfortable with version control and collaboration features.
